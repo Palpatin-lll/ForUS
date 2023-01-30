@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">ForUS</string>
+    <string name="welcom_back">Welcom back</string>
+    <string name="welcome_back">Welcome back</string>
+    <string name="login_to_continue">Login to continue</string>
+    <string name="email">Email</string>
+    <string name="login_to_continue1">Login to continue</string>
+    <string name="welcome_back1">Welcome back</string>
+    <string name="password">Password</string>
+    <string name="sing_in">Sing in</string>
+    <string name="creative_new_account">Creative new account</string>
+    <string name="create_new_account">Create new account</string>
+    <string name="add_image">add image</string>
+    <string name="name">Name</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="sing_up">Sing Up</string>
+</resources>
